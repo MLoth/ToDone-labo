@@ -40,6 +40,8 @@ Voorbeeld van de layout:
 
 ## Uitbreiding:
 - Hoe zou je SEO kunnen verbeteren op deze pagina(s)? Bespreek dit tijdens de les.
-- Maak de naam (Hello __Naam__) aanpasbaar en sla dit op in localStorage. Tip: bekijk het _contenteditable_ attribuut.
-- Maak de website so goed mogelijk responsive:
-	- Zijn de knoppen groot genoeg om op te klikken?
+- Maak de naam (Hello __naam__) aanpasbaar en sla dit op in localStorage. Tip: bekijk het _contenteditable_ attribuut.
+- Maak de website zo goed mogelijk responsive:
+	- Zijn de knoppen groot genoeg om op te klikken? (Wat is de standaard hiervoor?)
+	- Kan je swipe-acties toekennen om een task te verwijderen of te voltooien? https://dribbble.com/shots/4865423-List-swipes-microinteractions-Tasker-app (Moeilijk)
+- Laat de user zelf de themakleur kiezen. Zet in de footer een paar gekleuren bollen waar de user op kan klikken of maak een pagina ```settings.html``` aan. Houd de kleur bij in de localStorage.
